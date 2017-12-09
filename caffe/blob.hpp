@@ -7,7 +7,7 @@
 #include "caffe/util/math_functions.hpp"
 
 namespace caffe {
-
+/**刘润测试*/
 /**
  * @brief A wrapper around SyncedMemory holders serving as the basic
  *        computational unit through which Layer%s, Net%s, and Solver%s
