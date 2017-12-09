@@ -15,6 +15,7 @@ namespace caffe {
  *
  * TODO(dox): more thorough description.
  */
+  再次提交测试
 template <typename Dtype>
 class Blob {
  public:
